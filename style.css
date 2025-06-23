@@ -9,6 +9,9 @@ h1 {
   font-size: 40px
 }
 #video {
-  width: 400px;
-  height: 200px
+  postion: absolute;
+  top: 300px;
+  left: 150px;
+  width: 700px;
+  height: 400px
 }
