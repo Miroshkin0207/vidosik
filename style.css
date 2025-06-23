@@ -1,0 +1,14 @@
+@media (min-width: 1200px) {
+#video {
+  width: 400px;
+  height: 200px
+}
+}
+@media (max-width: 1199px) {
+h1 {
+  font-size: 40px
+}
+#video {
+  width: 400px;
+  height: 200px
+}
